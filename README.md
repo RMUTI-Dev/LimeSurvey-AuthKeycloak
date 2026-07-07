@@ -1,5 +1,8 @@
 # AuthKeycloak — Keycloak OIDC Single Sign-On plugin for LimeSurvey
 
+*[อ่านเป็นภาษาไทย](README.th.md) — this English version is the source of truth;
+the Thai version is a translation and may lag behind after updates.*
+
 A LimeSurvey authentication plugin that lets admin users log in via a Keycloak
 identity provider (OpenID Connect) instead of (or alongside) LimeSurvey's
 built-in username/password login.
